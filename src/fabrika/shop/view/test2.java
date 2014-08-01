@@ -6,8 +6,7 @@ package fabrika.shop.view;
 public class test2 {
     int test3;
     int test4;
-    int test5;
-    //adfsflasdjfjkadf
+    int test5;   //adfsflasdjfjkadf
     String a="Hello";
-	
+	System.out.println (a);
 	}
