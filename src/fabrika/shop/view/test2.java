@@ -8,4 +8,6 @@ public class test2 {
     int test4;
     int test5;
     //adfsflasdjfjkadf
-}
+    String a="Hello";
+	
+	}
